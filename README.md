@@ -15,7 +15,6 @@ Parkinson’s Disease is a neurodegenerative disorder that affects movement. Ear
 - Matplotlib
 - Seaborn
 
-## Installation
 Clone the repository:
    ```bash
    git clone https://github.com/Satishnaidu2633/Parkinson-s-Disease-Detection
